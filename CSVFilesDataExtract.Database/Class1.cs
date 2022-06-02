@@ -1,8 +1,5 @@
-﻿using System;
+﻿namespace CSVFilesDataExtract.Database;
 
-namespace CSVFilesDataExtract.Database
+public class Class1
 {
-    public class Class1
-    {
-    }
 }
