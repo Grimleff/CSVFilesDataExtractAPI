@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVFilesDataExtract.Database", "CSVFilesDataExtract.Database\CSVFilesDataExtract.Database.csproj", "{74B42DE1-9D59-4E8A-A021-E8D8AECA72CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVFilesDataExtract.API", "CSVFilesDataExtract.API\CSVFilesDataExtract.API.csproj", "{8811C00B-925D-4F74-98D6-E91FDD9F8A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVFilesDataExtract.API.Tests", "CSVFilesDataExtract.API.Tests\CSVFilesDataExtract.API.Tests.csproj", "{FA0E61EE-FA7E-42C1-ADF5-CB93290C2453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B42DE1-9D59-4E8A-A021-E8D8AECA72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B42DE1-9D59-4E8A-A021-E8D8AECA72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B42DE1-9D59-4E8A-A021-E8D8AECA72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B42DE1-9D59-4E8A-A021-E8D8AECA72CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8811C00B-925D-4F74-98D6-E91FDD9F8A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8811C00B-925D-4F74-98D6-E91FDD9F8A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8811C00B-925D-4F74-98D6-E91FDD9F8A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8811C00B-925D-4F74-98D6-E91FDD9F8A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0E61EE-FA7E-42C1-ADF5-CB93290C2453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0E61EE-FA7E-42C1-ADF5-CB93290C2453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0E61EE-FA7E-42C1-ADF5-CB93290C2453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0E61EE-FA7E-42C1-ADF5-CB93290C2453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
